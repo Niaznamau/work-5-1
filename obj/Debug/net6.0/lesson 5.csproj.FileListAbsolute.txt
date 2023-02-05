@@ -1,0 +1,15 @@
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\bin\Debug\net6.0\lesson 5.exe
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\bin\Debug\net6.0\lesson 5.deps.json
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\bin\Debug\net6.0\lesson 5.runtimeconfig.json
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\bin\Debug\net6.0\lesson 5.dll
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\bin\Debug\net6.0\lesson 5.pdb
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\lesson 5.csproj.AssemblyReference.cache
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\lesson 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\lesson 5.AssemblyInfoInputs.cache
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\lesson 5.AssemblyInfo.cs
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\lesson 5.csproj.CoreCompileInputs.cache
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\lesson 5.dll
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\refint\lesson 5.dll
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\lesson 5.pdb
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\lesson 5.genruntimeconfig.cache
+C:\Users\ANATOLI\OneDrive\Рабочий стол\work dz\lesson 5\obj\Debug\net6.0\ref\lesson 5.dll
